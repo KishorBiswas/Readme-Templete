@@ -125,6 +125,12 @@ https://github.com/
 
 ## Table syntax
 
+| Name | Place |
+|-------|--------|
+|Kishor | Biswas |
+|Koushik | Biswas |
+
+
 
 
   
