@@ -125,9 +125,9 @@ https://github.com/
 
 ## Table syntax
 | Name | Place |
-|-------|--------|
-|Kishor | Biswas |
-|Koushik | Biswas |
+| ------- | -------- |
+| Kishor | Biswas |
+| Koushik | Biswas |
 
 
 ## The end Here
